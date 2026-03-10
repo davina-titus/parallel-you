@@ -19,7 +19,7 @@ ParallelYou is an AI-powered multiverse simulator that generates 3 distinct life
 
 ## 🖥 Demo
 
-> *(Add your Vercel URL here once deployed)*
+> https://youtu.be/glDdiWyR_kc
 
 ---
 
